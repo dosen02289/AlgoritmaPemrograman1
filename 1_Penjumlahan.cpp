@@ -28,5 +28,5 @@ int main()
      cout << "Nama: "<< nama << endl;
      cout << "kode Dosen: " << kodedosen << endl;
 
-   // return 0;
+    return 0;
 }
